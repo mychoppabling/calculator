@@ -1,15 +1,15 @@
 # Калькулятор
 
-Простой, но полноценный веб-калькулятор с поддержкой клавиатуры, историей операций и обработкой edge-кейсов.
+Простой, но функциональный веб-калькулятор, позволяющий выполнять арифметические операции (сложение, вычитание, умножение, деление) с поддержкой десятичных чисел, клавиатуры и истории вычислений. Проект реализован в рамках производственной практики по веб-разработке.
 
 ## Стек
-- HTML5, CSS3 (Grid), Vanilla JavaScript
+- Frontend: HTML5, CSS3 (Grid + Flex), Vanilla JavaScript
 
 ## Как запустить локально
 1. Скачать репозиторий
-2. Открыть `index.html` в браузере
+2. Открыть файл `index.html` в браузере
 
 ## Деплой
-[https://calculator-vityazev.netlify.app/]
+https://calculator-vityazev.netlify.app/
 
-[![Code Climate](https://codeclimate.com/github/mychoppabling/calculator/badges/gpa.svg)](https://codeclimate.com/github/mychoppabling/calculator) 
+[![Code Climate](https://codeclimate.com/github/mychoppabling/calculator/badges/gpa.svg)](https://codeclimate.com/github/mychoppabling/calculator)
