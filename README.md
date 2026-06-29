@@ -12,4 +12,4 @@
 ## Деплой
 https://calculator-vityazev.netlify.app/
 
-[![Code Climate]((https://codeclimate.com/github/mychoppabling/calculator))]
+[![Code Climate](https://codeclimate.com/github/mychoppabling/calculator/badges/gpa.svg)](https://codeclimate.com/github/mychoppabling/calculator)
