@@ -10,6 +10,6 @@
 2. Открыть `index.html` в браузере
 
 ## Деплой
-[Вставь ссылку на Vercel/Netlify]
+[https://calculator-vityazev.netlify.app/]
 
 [![Code Climate](https://codeclimate.com/github/mychoppabling/calculator/badges/gpa.svg)](https://codeclimate.com/github/mychoppabling/calculator)
